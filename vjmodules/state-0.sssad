@@ -1,0 +1,17 @@
+eff-2 100 0;
+rect-4 0 4 3 2 20 3;
+rect-3 0 4 3 2 20 3;
+rect-2 0 4 3 2 20 3;
+rect-1 0 6 6 2 20 3;
+blend-right2 2 1;
+blend-right1 2 1;
+blend-left1 3 1;
+blend-left2 2 1;
+video-right-3 33 0 symbol;
+video-right-2 33 0 symbol;
+video-right-1 33 0 symbol;
+video-left-3 33 0 symbol;
+video-left-2 33 2 /Users/xcorex/Documents/Projects/Manticorevj/vj/manticore stock/stock_apocalyptic_pjpg/satellite_docking_normal-Buat VJ.mov
+;
+video-left-1 98 2 /Users/xcorex/Documents/Projects/Manticorevj/vj/manticore stock/stock_apocalyptic_pjpg/F16 hud-Buat VJ.mov
+;

@@ -1,0 +1,17 @@
+rect-4 0 4 3 2 20 3;
+rect-3 0 4 3 2 20 3;
+rect-2 0 4 3 2 20 3;
+rect-1 0 7 5 2 20 3;
+blend-right2 2 1;
+blend-right1 2 1;
+blend-left1 3 1;
+blend-left2 2 1;
+video-right-3 33 0 symbol;
+video-right-2 33 0 symbol;
+video-right-1 33 0 symbol;
+video-left-3 33 0 symbol;
+video-left-2 33 3 /Users/xcorex/Documents/Projects/Manticorevj/vj/manticore stock/stock_apocalyptic_pjpg/vietnambomb-Buat VJ.mov
+;
+video-left-1 33 1 /Users/xcorex/Documents/Projects/Manticorevj/vj/manticore stock/stock_apocalyptic_pjpg/mig29-Buat VJ.mov
+;
+eff-2;

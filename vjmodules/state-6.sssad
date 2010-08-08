@@ -1,0 +1,18 @@
+video-right-3 33 0 symbol;
+video-right-2 33 0 symbol;
+video-right-1 33 0 symbol;
+video-left-3 33 0 /Users/xcorex/Documents/Projects/Manticorevj/vj/video_stock/nuklir.number-Buat VJ PJPEG.mov
+;
+video-left-2 33 3 /Users/xcorex/Documents/Projects/Manticorevj/vj/video_stock/sonogram1-Buat VJ PJPEG.mov
+;
+rect-4 0 4 3 2 20 3;
+rect-2 0 4 3 2 20 3;
+rect-1 0 5 4 2 20 3;
+rect-3 0 5 3 2 20 3;
+blend-right2 2 1;
+blend-right1 2 1;
+blend-left1 5 1;
+blend-left2 4 0;
+video-left-1 82 3 /Users/xcorex/Documents/Projects/Manticorevj/vj/video_stock/nuklir.number-Buat VJ PJPEG.mov
+;
+eff-2;
